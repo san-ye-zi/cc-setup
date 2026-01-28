@@ -1,4 +1,4 @@
-# Commands - Namespace Organization
+# Claude Commands - Namespace Organization
 
 This collection of commands is organized into logical namespaces to help you quickly find the right tool for your task.
 
