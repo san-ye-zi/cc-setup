@@ -10,6 +10,6 @@ Follow these steps:
 5. Write and run tests to verify the fix
 6. Ensure code passes linting and type checking
 7. Create a descriptive commit message
-8. Push the new branch
+8. Push the new branch and create PR with closing issue when merged
 
 Remember to use the GitHub CLI (`gh`) for all GitHub-related tasks.
