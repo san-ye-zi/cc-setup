@@ -5,7 +5,7 @@ Follow these steps:
 1. Use `gh issue view` to get the issue details
 2. Understand the problem described in the issue
 3. Search the codebase for relevant files
-4. Create a new branch naming issues/number
+4. Create a new branch linked to the same issue
 4. Implement the necessary changes to fix the issue
 5. Write and run tests to verify the fix
 6. Ensure code passes linting and type checking
